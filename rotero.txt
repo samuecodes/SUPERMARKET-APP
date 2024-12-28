@@ -1,0 +1,28 @@
+parte 1 - decidir o rumo do projeto
+
+    - APP PARA CAIXA DE CONVENIENCIA/MERCADO
+    - LANDING PAGE
+
+parte 2 - atribuição de atividades
+
+    - FRONT-END NATANAEL
+    - BACK-END SAMUEL
+
+parte 3 - elaboração
+
+    - SUPERMERCADO FICTIFIO REDE COMPRAS
+
+        elementos
+
+    codigo dos produtos
+    preço unitario
+    quantidade
+    valor total
+    nome do produto
+    desconto
+    finalizar a compra 
+    PAG pagamento
+    troco
+    total recebido
+    PAG cancelamento de produtos
+    
